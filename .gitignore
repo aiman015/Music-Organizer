@@ -1,0 +1,8 @@
+# Compiled Java files
+*.class
+
+# BlueJ generated files
+*.ctxt
+
+# Large audio files
+music/*.wav
